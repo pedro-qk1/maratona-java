@@ -34,5 +34,11 @@ public class Aula04Operadores {
         boolean isDentroDaLeiMenorQue30 = idade < 30 && salario >= 3381;
         System.out.println(isDentroDaLeiMaiorQue30);
         System.out.println(isDentroDaLeiMenorQue30);
+
+        double valorTotalContaCorrente = 200;
+        double valorTotalContaPoupanca = 10000;
+        float valorPlayStationCinco = 5000F;
+        boolean isPlayStationCincoCompravel = valorTotalContaCorrente >valorPlayStationCinco || valorTotalContaPoupanca > valorPlayStationCinco;
+        System.out.println("isPlayStationCincoCompravel: " + isPlayStationCincoCompravel);
     }
 }
