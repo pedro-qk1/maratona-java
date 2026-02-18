@@ -17,5 +17,6 @@ public class Aula02TiposPrimitivos {
         System.out.println(caractere);
         System.out.println(idade);
         System.out.println(numeroGrande);
+        System.out.println("Teste");
     }
 }
