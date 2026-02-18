@@ -9,6 +9,19 @@ Projeto de estudos baseado no curso Maratona Java.
 - Collections
 - Streams
 - Exceções
+- Classes Utilitárias
+- Generics
+- Classes internas
+- Lambdas
+- Method Reference
+- Optional
+- Streams
+- Threads
+- Concorrência
+- Padrões de Projeto
+- JDBC
+- Record Class
+- Pattern Matching for instanceof
 
 ## Como executar
 ```bash
