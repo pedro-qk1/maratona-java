@@ -25,5 +25,14 @@ public class Aula08ArraysMultidimensionais01 {
                 meses++;
             }
         }
+
+        System.out.println("-------------------------------");
+        meses = 1;
+        for(int[] arrBase : dias){
+            for(int num: arrBase){
+                System.out.println("Mes " + meses + ": " + num + " dias");
+                meses++;
+            }
+        }
     }
 }
